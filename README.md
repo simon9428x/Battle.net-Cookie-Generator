@@ -1,7 +1,7 @@
 # **Battle.net Cookie Generator**
 
 ```
-CREDIT : Seokyoon0
+CREDIT : simon9428x
 ```
 ***
 **⚙️ HOW TO USE**
