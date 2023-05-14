@@ -1,0 +1,1 @@
+# Battle.net-Cookie-Generator
